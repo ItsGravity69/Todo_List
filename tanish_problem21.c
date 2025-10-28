@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     float c;
     printf("Celcius value is: ");
     scanf("%f", &c);
